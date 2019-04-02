@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mercedes-Benz</string>
+    <string name="nommerco" />
+    <string name="todo" />
+    <string name="url" />
+    <string name="to">TODO</string>
+    <string name="to">TODO</string>
+    <string name="to">TODO</string>
+    <string name="description">Description</string>
+    <string name="example_application">Example application</string>
+    <string name="mercedes_cars">Mercedes cars</string>
+</resources>
